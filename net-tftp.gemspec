@@ -17,7 +17,7 @@ spec = Gem::Specification.new do |s|
   s.has_rdoc=true
 
 #  s.test_suite_file = 'test/ALL-TESTS.rb'
-
+  
   s.author = "Guillaume Marcais"
   s.email = "guillaume.marcais@free.fr"
   s.homepage = "http://net-tftp.rubyforge.org"

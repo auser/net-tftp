@@ -61,7 +61,7 @@ module Net # :nodoc:
     end
   end
 
-  VERSION = "0.2.0"
+  VERSION = "0.2.1"
 
   # Errors
   ERROR_DESCRIPTION = [
